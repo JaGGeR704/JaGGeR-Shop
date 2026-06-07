@@ -1,0 +1,379 @@
+{
+    "users": [
+        {
+            "login": "admin",
+            "password": "admin",
+            "role": "admin",
+            "blocked": false
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Футболка \"Когда? Завтра\"",
+            "price": 3500,
+            "old_price": null,
+            "discount": null,
+            "tag": "",
+            "description": "Материал: 2х нитка пенье 240 гр\/м²\nСостав: 95% хлопок 5% лайкра\nПечать: Шелкография\nКрой: Оверсайз\n\nОтправляем в течение недели с момента заказа",
+            "sizes_stock": {
+                "S": 12,
+                "M": 3,
+                "L": 0,
+                "XL": 15
+            },
+            "images": [
+                "images\/products\/kogda-zavtra\/kogda-zavtra-1.webp",
+                "images\/products\/kogda-zavtra\/kogda-zavtra-2.webp",
+                "images\/products\/kogda-zavtra\/kogda-zavtra-3.webp"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Футболка \"Мачо и ботан\"",
+            "price": 1575,
+            "old_price": 3500,
+            "discount": 55,
+            "tag": "",
+            "description": "Материал: 2х нитка пенье 240 гр\/м²\nСостав: 95% хлопок 5% лайкра\nПечать: Шелкография\nКрой: Оверсайз\nРост моделей: 183\/160\nРазмер на моделях: L\/M\n\nОтправляем в течение недели с момента заказа",
+            "sizes_stock": {
+                "M": 8,
+                "L": 2,
+                "XL": 0
+            },
+            "images": [
+                "images\/products\/macho-i-botan\/macho-i-botan-1.webp",
+                "images\/products\/macho-i-botan\/macho-i-botan-2.webp",
+                "images\/products\/macho-i-botan\/macho-i-botan-3.webp",
+                "images\/products\/macho-i-botan\/macho-i-botan-4.webp",
+                "images\/products\/macho-i-botan\/macho-i-botan-5.webp",
+                "images\/products\/macho-i-botan\/macho-i-botan-6.webp"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Зип-худи \"MellSher\"",
+            "price": 7000,
+            "old_price": null,
+            "discount": null,
+            "tag": "",
+            "description": "Материал: 3х нитка пенье 330 гр\/м²\nСостав: 80% хлопок 20% полиэстер\nПечать: Шелкография\nКрой: Оверсайз\nОверсайз зип-худи на молнии. Каждое изделие порвано вручную.\nРост моделей: 183\/160\nРазмер на моделях: L\/M\n\nОтправляем в течение недели с момента заказа",
+            "sizes_stock": {
+                "S": 0,
+                "M": 0,
+                "L": 0,
+                "XL": 0
+            },
+            "images": [
+                "images\/products\/zip-khudi-mellsher\/zip-khudi-mellsher-1.webp",
+                "images\/products\/zip-khudi-mellsher\/zip-khudi-mellsher-2.webp",
+                "images\/products\/zip-khudi-mellsher\/zip-khudi-mellsher-3.webp",
+                "images\/products\/zip-khudi-mellsher\/zip-khudi-mellsher-4.webp",
+                "images\/products\/zip-khudi-mellsher\/zip-khudi-mellsher-5.webp",
+                "images\/products\/zip-khudi-mellsher\/zip-khudi-mellsher-6.webp"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Футболка \"Рэптилоид\"",
+            "price": 2500,
+            "old_price": null,
+            "discount": null,
+            "tag": "Новинка",
+            "description": "Материал: 2х нитка пенье 240 гр\/м²\nСостав: 95% хлопок 5% лайкра\nПечать: Шелкография\nКрой: Базовый\n\nОтправляем в течение недели с момента заказа",
+            "sizes_stock": {
+                "S": 7,
+                "M": 15,
+                "L": 4,
+                "XL": 15
+            },
+            "images": [
+                "images\/products\/reptiloid\/reptiloid-1.webp",
+                "images\/products\/reptiloid\/reptiloid-2.webp",
+                "images\/products\/reptiloid\/reptiloid-3.webp",
+                "images\/products\/reptiloid\/reptiloid-4.webp"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Футболка \"Неудачник\"",
+            "price": 3500,
+            "old_price": null,
+            "discount": null,
+            "tag": "",
+            "description": "Материал: 2х нитка пенье 240 гр\/м²\nСостав: 95% хлопок 5% лайкра\nПечать: Шелкография\nКрой: Оверсайз\nРост моделей: 183\/160\nРазмер на моделях: L\/M\n\nОтправляем в течение недели с момента заказа",
+            "sizes_stock": {
+                "M": 8,
+                "L": 0,
+                "XL": 3
+            },
+            "images": [
+                "images\/products\/neudachnik\/neudachnik-1.jpg",
+                "images\/products\/neudachnik\/neudachnik-2.jpg",
+                "images\/products\/neudachnik\/neudachnik-3.webp",
+                "images\/products\/neudachnik\/neudachnik-4.jpg",
+                "images\/products\/neudachnik\/neudachnik-5.jpg",
+                "images\/products\/neudachnik\/neudachnik-6.webp"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Футболка \"Этапы идеальных разрушений\"",
+            "price": 3500,
+            "old_price": null,
+            "discount": null,
+            "tag": "Новинка",
+            "description": "Материал: 2х нитка пенье 240 гр\/м²\nСостав: 95% хлопок 5% лайкра\nПечать: Шелкография\nКрой: Оверсайз\n\nОтправляем в течение недели с момента заказа",
+            "sizes_stock": {
+                "S": 0,
+                "M": 2,
+                "L": 14,
+                "XL": 5
+            },
+            "images": [
+                "images\/products\/etapy-idealnykh-razrusheniy\/etapy-idealnykh-razrusheniy-1.webp",
+                "images\/products\/etapy-idealnykh-razrusheniy\/etapy-idealnykh-razrusheniy-2.webp",
+                "images\/products\/etapy-idealnykh-razrusheniy\/etapy-idealnykh-razrusheniy-3.webp",
+                "images\/products\/etapy-idealnykh-razrusheniy\/etapy-idealnykh-razrusheniy-4.webp",
+                "images\/products\/etapy-idealnykh-razrusheniy\/etapy-idealnykh-razrusheniy-5.webp"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Футболка \"Мужья на час\"",
+            "price": 2500,
+            "old_price": null,
+            "discount": null,
+            "tag": "",
+            "description": "Материал: 2х нитка пенье 240 гр\/м²\nСостав: 95% хлопок 5% лайкра\nПечать: Шелкография\nКрой: Оверсайз\n\nОтправляем в течение недели с момента заказа",
+            "sizes_stock": {
+                "S": 6,
+                "M": 12,
+                "L": 15,
+                "XL": 0
+            },
+            "images": [
+                "images\/products\/muzhya-na-chas\/muzhya-na-chas-1.webp",
+                "images\/products\/muzhya-na-chas\/muzhya-na-chas-2.webp",
+                "images\/products\/muzhya-na-chas\/muzhya-na-chas-3.webp",
+                "images\/products\/muzhya-na-chas\/muzhya-na-chas-4.webp",
+                "images\/products\/muzhya-na-chas\/muzhya-na-chas-5.webp"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Футболка \"Черные мопсы\"",
+            "price": 3000,
+            "old_price": null,
+            "discount": null,
+            "tag": "",
+            "description": "Материал: Тонкий летний хлопок пенье 180 гр\/м²\nСостав: 95% хлопок, 5% лайкра\nПринт: Эластичный и долговечный термотрансфер\nКрой: Комфортный классический.\n\nОтправляем в течение недели с момента заказа",
+            "sizes_stock": {
+                "S": 2,
+                "M": 0,
+                "L": 1,
+                "XL": 15
+            },
+            "images": [
+                "images\/products\/chernye-mopsy\/chernye-mopsy-1.webp",
+                "images\/products\/chernye-mopsy\/chernye-mopsy-2.webp",
+                "images\/products\/chernye-mopsy\/chernye-mopsy-3.webp",
+                "images\/products\/chernye-mopsy\/chernye-mopsy-4.webp",
+                "images\/products\/chernye-mopsy\/chernye-mopsy-5.webp"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Футболка \"Ангел\"",
+            "price": 3000,
+            "old_price": null,
+            "discount": null,
+            "tag": "",
+            "description": "Материал: 2х нитка пенье 240 гр\/м²\nСостав: 95% хлопок 5% лайкра\nНанесение: Вышивка; Шелкография на спине\nКрой: Оверсайз\nРост моделей: 183\/160\nРазмер на моделях: M\/S\n\nОтправляем в течение недели с момента заказа",
+            "sizes_stock": {
+                "S": 11,
+                "M": 5,
+                "L": 3,
+                "XL": 12
+            },
+            "images": [
+                "images\/products\/angel\/angel-1.webp",
+                "images\/products\/angel\/angel-2.webp",
+                "images\/products\/angel\/angel-3.webp",
+                "images\/products\/angel\/angel-4.webp"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Футболка \"Демон\"",
+            "price": 3000,
+            "old_price": null,
+            "discount": null,
+            "tag": "",
+            "description": "Материал: 2х нитка пенье 240 гр\/м²\nСостав: 95% хлопок 5% лайкра\nНанесение: Вышивка; Шелкография на спине\nКрой: Оверсайз\nРост моделей: 183\/160\nРазмер на моделях: M\/S\n\nОтправляем в течение недели с момента заказа",
+            "sizes_stock": {
+                "S": 4,
+                "M": 5,
+                "L": 3,
+                "XL": 12
+            },
+            "images": [
+                "images\/products\/demon\/demon-1.webp",
+                "images\/products\/demon\/demon-2.webp",
+                "images\/products\/demon\/demon-3.webp",
+                "images\/products\/demon\/demon-4.webp"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Футболка \"Ангелочек инфантил\"",
+            "price": 3000,
+            "old_price": null,
+            "discount": null,
+            "tag": "",
+            "description": "Материал: 2х нитка пенье 240 гр\/м²\nСостав: 95% хлопок 5% лайкра\nПечать: Шелкография\nКрой: Оверсайз\n\nОтправляем в течение недели с момента заказа",
+            "sizes_stock": {
+                "S": 4,
+                "M": 9,
+                "L": 1,
+                "XL": 15
+            },
+            "images": [
+                "images\/products\/angelochek-infantil\/angelochek-infantil-1.webp",
+                "images\/products\/angelochek-infantil\/angelochek-infantil-2.webp",
+                "images\/products\/angelochek-infantil\/angelochek-infantil-3.webp",
+                "images\/products\/angelochek-infantil\/angelochek-infantil-4.webp",
+                "images\/products\/angelochek-infantil\/angelochek-infantil-5.webp"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Футболка \"42 братуха\" v2",
+            "price": 3500,
+            "old_price": null,
+            "discount": null,
+            "tag": "",
+            "description": "Материал: 2х нитка пенье 240 гр\/м²\nСостав: 95% хлопок 5% лайкра\nНанесение: Шелкография\nКрой: Оверсайз\nРост моделей: 183\/160\nРазмер на моделях: M\/S\n\nОтправляем в течение недели с момента заказа",
+            "sizes_stock": {
+                "S": 4,
+                "M": 9,
+                "L": 1,
+                "XL": 4
+            },
+            "images": [
+                "images\/products\/42-bratukha-v2\/42-bratukha-v2-1.webp",
+                "images\/products\/42-bratukha-v2\/42-bratukha-v2-2.webp",
+                "images\/products\/42-bratukha-v2\/42-bratukha-v2-3.webp",
+                "images\/products\/42-bratukha-v2\/42-bratukha-v2-4.webp",
+                "images\/products\/42-bratukha-v2\/42-bratukha-v2-5.webp",
+                "images\/products\/42-bratukha-v2\/42-bratukha-v2-6.webp",
+                "images\/products\/42-bratukha-v2\/42-bratukha-v2-7.webp",
+                "images\/products\/42-bratukha-v2\/42-bratukha-v2-8.webp",
+                "images\/products\/42-bratukha-v2\/42-bratukha-v2-9.webp"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Футболка \"42 братуха\" v2 варёная",
+            "price": 3500,
+            "old_price": null,
+            "discount": null,
+            "tag": "Новинка",
+            "description": "Материал: 2х нитка пенье 240 гр\/м²\nСостав: 95% хлопок 5% лайкра\nНанесение: Шелкография\nКрой: Оверсайз\nОкрашено методом Garment Dye\nРост моделей: 183\/160\nРазмер на моделях: M\/S\n\nОтправляем в течение недели с момента заказа",
+            "sizes_stock": {
+                "M": 9,
+                "L": 1,
+                "XL": 15
+            },
+            "images": [
+                "images\/products\/42-bratukha-varenaya\/42-bratukha-varenaya-1.webp",
+                "images\/products\/42-bratukha-varenaya\/42-bratukha-varenaya-2.webp",
+                "images\/products\/42-bratukha-varenaya\/42-bratukha-varenaya-3.webp",
+                "images\/products\/42-bratukha-varenaya\/42-bratukha-varenaya-4.webp",
+                "images\/products\/42-bratukha-varenaya\/42-bratukha-varenaya-5.webp",
+                "images\/products\/42-bratukha-varenaya\/42-bratukha-varenaya-6.webp",
+                "images\/products\/42-bratukha-varenaya\/42-bratukha-varenaya-7.webp",
+                "images\/products\/42-bratukha-varenaya\/42-bratukha-varenaya-8.webp",
+                "images\/products\/42-bratukha-varenaya\/42-bratukha-varenaya-9.webp"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Футболка \"42 братуха\" v2 золотая Limited",
+            "price": 10000,
+            "old_price": null,
+            "discount": null,
+            "tag": "",
+            "description": "Лимитированная версия, тираж 50 штук, на вороте нанесён индивидуальный номер.\nМатериал: 2х нитка пенье 240 гр\/м²\nСостав: 95% хлопок 5% лайкра\nНанесение: Шелкография\nКрой: Оверсайз\nРост модели: 183\nРазмер на модели: L\n\nОтправляем в течение недели с момента заказа",
+            "sizes_stock": {
+                "S": 0,
+                "M": 0,
+                "L": 0,
+                "XL": 0
+            },
+            "images": [
+                "images\/products\/42-bratukha-v2-zolotaya-limited\/42-bratukha-v2-zolotaya-limited-1.webp",
+                "images\/products\/42-bratukha-v2-zolotaya-limited\/42-bratukha-v2-zolotaya-limited-2.webp",
+                "images\/products\/42-bratukha-v2-zolotaya-limited\/42-bratukha-v2-zolotaya-limited-3.webp",
+                "images\/products\/42-bratukha-v2-zolotaya-limited\/42-bratukha-v2-zolotaya-limited-4.webp",
+                "images\/products\/42-bratukha-v2-zolotaya-limited\/42-bratukha-v2-zolotaya-limited-5.webp",
+                "images\/products\/42-bratukha-v2-zolotaya-limited\/42-bratukha-v2-zolotaya-limited-6.webp",
+                "images\/products\/42-bratukha-v2-zolotaya-limited\/42-bratukha-v2-zolotaya-limited-7.webp",
+                "images\/products\/42-bratukha-v2-zolotaya-limited\/42-bratukha-v2-zolotaya-limited-8.webp",
+                "images\/products\/42-bratukha-v2-zolotaya-limited\/42-bratukha-v2-zolotaya-limited-9.webp",
+                "images\/products\/42-bratukha-v2-zolotaya-limited\/42-bratukha-v2-zolotaya-limited-10.webp",
+                "images\/products\/42-bratukha-v2-zolotaya-limited\/42-bratukha-v2-zolotaya-limited-11.webp"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Худи \"Отсо\" серое",
+            "price": 3500,
+            "old_price": null,
+            "discount": null,
+            "tag": "",
+            "description": "Материал: футер 3х нитка 330 гр\/м²\nСостав: 80% хлопок 20% полиэстер\nПечать: ШелкографияКрой: Оверсайз\n\nОтправляем в течение недели с момента заказа",
+            "sizes_stock": {
+                "S": 3,
+                "M": 1,
+                "L": 0
+            },
+            "images": [
+                "images\/products\/otso-seroe\/otso-seroe-1.webp",
+                "images\/products\/otso-seroe\/otso-seroe-2.webp",
+                "images\/products\/otso-seroe\/otso-seroe-3.webp",
+                "images\/products\/otso-seroe\/otso-seroe-4.webp"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Футболка \"Мне хорошо\"",
+            "price": 3000,
+            "old_price": null,
+            "discount": null,
+            "tag": "",
+            "description": "Материал: 2х нитка пенье 240 гр\/м²\nСостав: 95% хлопок 5% лайкра\nПечать: Вышивка\nКрой: Оверсайз\n\nОтправляем в течение недели с момента заказа",
+            "sizes_stock": {
+                "S": 0,
+                "M": 0,
+                "L": 0,
+                "XL": 0
+            },
+            "images": [
+                "images\/products\/mne-khorosho\/mne-khorosho-1.webp",
+                "images\/products\/mne-khorosho\/mne-khorosho-2.webp",
+                "images\/products\/mne-khorosho\/mne-khorosho-3.webp",
+                "images\/products\/mne-khorosho\/mne-khorosho-4.webp"
+            ]
+        }
+    ],
+    "reviews": [
+        {
+            "product_id": 1,
+            "user": "Никита",
+            "text": "Тяги шикарные, на весну самое то!",
+            "rating": 5
+        }
+    ],
+    "orders": []
+}
